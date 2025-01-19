@@ -1,4 +1,8 @@
+output
+duckdb*
+
 # Byte-compiled / optimized / DLL files
+diary/
 __pycache__/
 *.py[cod]
 *$py.class
